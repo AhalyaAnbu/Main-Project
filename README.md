@@ -106,7 +106,7 @@ This project demonstrates how Artificial Intelligence is reshaping the workforce
 ---
 
 
-## 📷 Dashboard Preview
+## 📷 Dashboard 
 <img width="602" height="347" alt="image" src="https://github.com/user-attachments/assets/e65d9222-7ec1-423b-9f3f-95477797e541" />
 
 ---
@@ -118,5 +118,4 @@ This project demonstrates how Artificial Intelligence is reshaping the workforce
 
 
 
-## 🔗 GitHub Repository
-[Project Repository Link](https://github.com/AhalyaAnbu/Mini-Project)
+
