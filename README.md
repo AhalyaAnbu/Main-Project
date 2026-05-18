@@ -59,24 +59,31 @@ The project includes data cleaning, preprocessing, exploratory data analysis (ED
 - Feature transformation
 - Data type conversion
 
+## Added Features:
+-Salary Change
+-Salary Change %
+
 ### Exploratory Data Analysis (EDA)
 - Univariate Analysis
 - Bivariate Analysis
 - Multivariate Analysis
 
 ### Visualizations Used
-- Count Plot
-- Histogram
-- Boxplot
-- Scatter Plot
-- Correlation Heatmap
-- Pairplot
-- Bubble Chart
-- Violin Plot
+- Count Plot-“This chart shows how many employees belong to Low, Medium, and High AI adoption levels.”
+- Histogram-“This histogram shows the distribution of employee work hours per week.”
+- Boxplot-“This boxplot shows the spread of productivity changes after AI adoption.”
+- Scatter Plot-“This scatter plot compares salary before AI and salary after AI to identify salary trends.”
+- Correlation Heatmap-“This heatmap shows the relationship between numerical features like salary, productivity, work hours.”
+- Bar plot-“This bar chart compares productivity changes across different AI adoption levels.”
+- Pairplot-“This pair plot helps identify relationships and patterns between multiple numerical variables.”
+- Bubble Chart-“This bubble chart analyzes experience, salary, automation risk, and job satisfaction together.”
+- Violin Plot-“This violin plot compares job satisfaction across education levels and remote work categories.”
 
 ---
 
 ## 📊 Dashboard Features
+
+"My Power BI dashboard provides an interactive view of AI impact on salaries, productivity, job satisfaction, and automation risk.”
 The Power BI dashboard includes:
 - KPI Cards
 - AI Adoption Analysis
